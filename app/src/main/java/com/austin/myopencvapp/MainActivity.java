@@ -7,7 +7,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
-
+//This Austin's project
 public class MainActivity<x> extends AppCompatActivity {
 
     @Override
